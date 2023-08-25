@@ -1,7 +1,9 @@
 # Python for data science
 
-- Recapping python fundamentals & expanding data science skills via Jupyter notebooks
+- Prerequisites: VSCode & the Python plugin (with Jupyter) + a Miniconda install (for package handling)
 
-- Utilises the VSCode Python extension for Jupyter, and a miniconda installation for package and environment management
+- First, recapping python fundamentals ->  python-fundamentals.ipynb. This includes setting up the conda and VSCode/Jupyter environment, git, and fundamentals of stdlib Python.
 
-- python-fundamentals.ipynb contains the steps needed to set up a working environment
+- Second, data science and visualisation with Python ->
+
+- Third, machine learning with Python -> python-machine-learning.ipynb
