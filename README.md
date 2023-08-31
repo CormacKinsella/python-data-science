@@ -1,18 +1,20 @@
 # Python for data science
 
-### Jupyter notebooks covering several topics in Python basics, data science, and bioinformatics
+>Note this repo is a work in progress
 
-#### To run:
+## Jupyter notebooks covering several topics in Python basics, data science, and bioinformatics
 
-Clone the repo, e.g., with GitHub CLI:
+### To run:
+
+1. Install VSCode and the VSCode Python plugin, the latter allows work with Jupyter notebooks
+
+2. Clone the repo with GitHub CLI:
 
 ```
 gh repo clone CormacKinsella/python-data-science
 ```
 
-For installation of software dependencies, a conda environment file is provided (python-data-science.yml).
-
-[Get conda here](https://docs.conda.io/en/latest/miniconda.html#linux-installers). To create, activate, and check the software environment:
+3. Set up the Conda environment for software dependencies. [Get conda here](https://docs.conda.io/en/latest/miniconda.html#linux-installers). To create, activate, and check the environment:
 
 ```
 conda env create -f python-data-science.yml
@@ -20,13 +22,11 @@ conda activate python-data-science
 conda list
 ```
 
-Install VSCode and the VSCode Python plugin, the latter allows work with Jupyter notebooks.
+4. Open any of the notebooks within VSCode, and explore code interactively!
 
-Open any of the notebooks within VSCode, and explore code interactively!
+### Notebooks
 
-#### Contents
-
-For getting familiar with python:
+For getting familiar with Python:
 
 >python-fundamentals.ipynb
 >>This includes setting up Conda, VSCode/Jupyter, Git, and fundamentals of stdlib Python
@@ -34,7 +34,7 @@ For getting familiar with python:
 Bioinformatics:
 
 >python-bioinformatics.ipynb
->>Covering differences between Shell and Python, Subprocess, Sh, Packages made for python, Biopython
+>>Covering differences between Shell and Python pipelines, Subprocess, Sh, Packages made for python, Biopython
 
 Machine learning:
 
