@@ -1,4 +1,4 @@
-## Python for data science
+# Python for data science
 
 ### Jupyter notebooks covering several topics in Python basics, data science, and bioinformatics
 
@@ -10,7 +10,9 @@ Clone the repo, e.g., with GitHub CLI:
 gh repo clone CormacKinsella/python-data-science
 ```
 
-- For installation of software dependencies, a conda environment file is provided (python-data-science.yml). [Get conda here](https://docs.conda.io/en/latest/miniconda.html#linux-installers). To create, activate, and check the software environment:
+For installation of software dependencies, a conda environment file is provided (python-data-science.yml).
+
+[Get conda here](https://docs.conda.io/en/latest/miniconda.html#linux-installers). To create, activate, and check the software environment:
 
 ```
 conda env create -f python-data-science.yml
@@ -18,15 +20,28 @@ conda activate python-data-science
 conda list
 ```
 
-- Install VSCode and the VSCode Python plugin, the latter allows work with Jupyter notebooks
+Install VSCode and the VSCode Python plugin, the latter allows work with Jupyter notebooks.
+
+Open any of the notebooks within VSCode, and explore code interactively!
 
 #### Contents
 
+For getting familiar with python:
 
->python fundamentals 
->> python-fundamentals.ipynb
->>>This includes setting up the conda and VSCode/Jupyter environment, git, and fundamentals of stdlib Python.
+>python-fundamentals.ipynb
+>>This includes setting up Conda, VSCode/Jupyter, Git, and fundamentals of stdlib Python
 
-- Second, data science and visualisation with Python ->
+Bioinformatics:
 
-- Third, machine learning with Python -> python-machine-learning.ipynb
+>python-bioinformatics.ipynb
+>>Covering differences between Shell and Python, Subprocess, Sh, Packages made for python, Biopython
+
+Machine learning:
+
+>python-machine-learning.ipynb
+>>Basics of machine learning with Python
+
+Data science and visualisation:
+
+>python-data_manipulation_and_graphics.ipynb
+>>Numpy, Pandas, and graphics for data science
