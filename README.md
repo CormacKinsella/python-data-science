@@ -34,7 +34,7 @@ For getting familiar with Python:
 Bioinformatics:
 
 >python-bioinformatics.ipynb
->>Covering differences between Shell and Python pipelines, Subprocess, Sh, Packages made for python, Biopython
+>>Covering differences between Shell and Python pipelines, Subprocess, the Sh package, bioinformatics packages made for python, Biopython
 
 Machine learning:
 
