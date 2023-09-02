@@ -45,3 +45,8 @@ Data science and visualisation:
 
 >python-data_manipulation_and_graphics.ipynb
 >>Numpy, Pandas, and graphics for data science
+
+Dashboard visualisation:
+
+>python-dashboards.ipynb
+>>What are dashboards and when are they used, what are APIs, which dashboard software is out there, the Dash package, API integration
