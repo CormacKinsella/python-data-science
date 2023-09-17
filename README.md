@@ -49,4 +49,4 @@ Data science and visualisation:
 Dashboard visualisation:
 
 >python-dashboards.ipynb
->>What are dashboards and when are they used, what are APIs, which dashboard software is out there, the Dash package, API integration
+>>What are dashboards, the Dash package for Python, deploying to cloud, API integration
