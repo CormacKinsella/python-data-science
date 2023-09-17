@@ -26,27 +26,32 @@ conda list
 
 ### Notebooks
 
-For getting familiar with Python:
+#### For getting familiar with Python:
 
->python-fundamentals.ipynb
->>This includes setting up Conda, VSCode/Jupyter, Git, and fundamentals of stdlib Python
+*python-fundamentals.ipynb*
 
-Bioinformatics:
+>Setting up environment, fundamentals of stdlib Python coding
 
->python-bioinformatics.ipynb
->>Covering differences between Shell and Python pipelines, Subprocess, the Sh package, bioinformatics packages made for python, Biopython
+#### Bioinformatics:
 
-Machine learning:
+*python-bioinformatics.ipynb*
 
->python-machine-learning.ipynb
->>Basics of machine learning with Python
+>Differences between Shell and Python pipelines, Subprocess, the Sh package, bioinformatics packages made for python, Biopython
 
-Data science and visualisation:
+#### Machine learning:
 
->python-data_manipulation_and_graphics.ipynb
->>Numpy, Pandas, and graphics for data science
+*python-machine-learning.ipynb*
 
-Dashboard visualisation:
+>Basics of machine learning with Python
 
->python-dashboards.ipynb
->>What are dashboards, the Dash package for Python, deploying to cloud, API integration
+#### Data science and visualisation:
+
+*python-data_manipulation_and_graphics.ipynb*
+
+>Numpy, Pandas, and graphics for data science
+
+#### Dashboard visualisation:
+
+*python-dashboards.ipynb*
+
+>What are dashboards, the Dash package for Python, deploying to cloud, API integration
