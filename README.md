@@ -54,4 +54,4 @@ conda list
 
 *python-dashboards.ipynb*
 
->What are dashboards, the Dash package for Python, deploying to cloud, API integration
+>What are dashboards, the Dash package for Python, deploying to cloud
