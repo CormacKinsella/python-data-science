@@ -6,7 +6,7 @@
 
 ### To run:
 
-1. Install VSCode and the VSCode Python plugin, the latter allows work with Jupyter notebooks
+1. Install VSCode and the VSCode Python plugin (which includes Jupyter notebooks)
 
 2. Clone the repo with GitHub CLI:
 
