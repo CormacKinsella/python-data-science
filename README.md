@@ -2,9 +2,9 @@
 
 >Note this repo is a work in progress
 
-## Jupyter notebooks covering several topics in Python basics, data science, and bioinformatics
+## Jupyter notebooks covering Python & it's application to data science
 
-### To run:
+### To run code:
 
 1. Install VSCode and the VSCode Python plugin (which includes Jupyter notebooks)
 
@@ -14,12 +14,11 @@
 gh repo clone CormacKinsella/python-data-science
 ```
 
-3. Set up the Conda environment for software dependencies. [Get conda here](https://docs.conda.io/en/latest/miniconda.html#linux-installers). To create, activate, and check the environment:
+3. Set up the Conda environment for software dependencies. [Get conda here](https://docs.conda.io/en/latest/miniconda.html#linux-installers). To create and activate the environment:
 
 ```
 conda env create -f python-data-science.yml
 conda activate python-data-science
-conda list
 ```
 
 4. Open any of the notebooks within VSCode, and explore code interactively!
@@ -42,7 +41,7 @@ conda list
 
 *python-machine-learning.ipynb*
 
->Basics of machine learning with Python
+>Machine learning with Python
 
 #### Data science and visualisation:
 
@@ -54,4 +53,4 @@ conda list
 
 *python-dashboards.ipynb*
 
->What are dashboards, the Dash package for Python, deploying to cloud
+>Dashboard overview, the Dash package for Python, deploying to cloud
